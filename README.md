@@ -32,7 +32,7 @@ The primary objectives of the E-channeling system include:
 ![Use Case Diagram](images/use_case_diagram.png)
 
 ### Class Diagram
-![Class Diagram](images/images/class_diagram.png)
+![Class Diagram](images/class_diagram.png)
 
 ### Database Design
 
