@@ -29,10 +29,10 @@ The primary objectives of the E-channeling system include:
 ## System Design
 
 ### Use Case Diagram
-[[Use Case Diagram](https://github.com/DilekaRatnayaka/E-Channeling-System/blob/main/images/use%20case%20diagram.png)]
+![Use Case Diagram](images/use_case_diagram.png)
 
 ### Class Diagram
-[[Class Diagram](https://github.com/DilekaRatnayaka/E-Channeling-System/blob/main/images/class%20diagram.png)]
+![Class Diagram](images/images/class_diagram.png)
 
 ### Database Design
 
