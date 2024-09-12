@@ -163,22 +163,39 @@ CREATE TABLE Appointment (
 
 The E-Channeling System is designed for both doctors and patients, with separate web pages for each. For example, doctors and patients have separate login and signup pages, and certain functionalities are accessible only by doctors.
 
-Home Page
+### Home Page
+![Home Page](images/Picture1.jpg)
 
-Doctor Registration Page
+### Doctor Registration Page
+![Doctor Registration](images/Picture2.jpg)
 
-Doctor Login Page
+### Doctor Login Page
+![Doctor Login](images/Picture3.jpg)
 
-Doctor Profile Page
+### Doctor Profile Page
+![Doctor Profile](images/Picture4.jpg)
 
-Update Doctor Information Page
+### Update Doctor Information Page
+![Update Doctor Information](images/Picture5.jpg)
 
-Managing Schedules
+### Managing Schedules
+![Managing Schedules](images/Picture6.jpg)
 
-Patient Registration Page
+### Edit Schedule Page
+![Patient Registration](images/Picture7.jpg)
 
-Patient Login Page
+### Patient Registration Page
+![Patient Login](images/Picture8.jpg)
 
-Patient Profile Page
+### Patient Login Page
+![Patient Profile](images/Picture9.jpg)
 
-Update Patient Profile Page
+### Patient Profile Page
+![Update Patient Profile](images/Picture10.jpg)
+
+### Update Patient Information Page
+![Patient Profile](images/Picture11.jpg)
+
+### Available Channeling Schedules Page
+![Update Patient Profile](images/Picture12.jpg)
+
